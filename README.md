@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Giulio Sarnataro, A.K.A H0tKinsS
 
-I am always eager to learn and stay up-to-date with the latest DevOps trends and technologies. I believe in the power of collaboration and open-source contributions.
+I am eager to become Junior DevOps Engineer, learn and stay up-to-date with the latest DevOps trends and technologies. I believe in the power of collaboration and open-source contributions.
 
 ## 🔧 Technologies and Tools
 

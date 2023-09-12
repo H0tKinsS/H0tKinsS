@@ -15,5 +15,5 @@ Here are some of the technologies and tools I work with:
 - **Scripting & Programming:** Bash, JavaScript, LUA
 - **Version Control:** Git
 - **Monitoring & Logging:** n/d
-- 
+
 Thanks for visiting my GitHub profile.

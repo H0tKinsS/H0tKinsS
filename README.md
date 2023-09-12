@@ -8,7 +8,7 @@ I am eager to become Junior DevOps Engineer, learn and stay up-to-date with the 
 
 Here are some of the technologies and tools I work with:
 
-- **Automation & Orchestration:** Jenkins, Ansible
+- **Automation & Orchestration:** Jenkins, Ansible, GitHub Actions
 - **Infrastructure as Code:** Terraform
 - **Containerization:** Docker
 - **Cloud Computing:** Amazon Web Services (AWS)

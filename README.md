@@ -16,6 +16,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/giulio-sarnataro-2b283dc/) profile. I'm open to networking, discussions, and collaboration opportunities!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulio-sarnataro-2b283dc/)](https://www.linkedin.com/in/giulio-sarnataro-2b283dc/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kontakt.giuliosarnataro@gmail.com)
 
 Thanks for visiting my GitHub profile.

@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Giulio Sarnataro, A.K.A H0tKinsS
+# Hi there! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulio-sarnataro-2b283dc/)](https://www.linkedin.com/in/giulio-sarnataro-2b283dc/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kontakt.giuliosarnataro@gmail.com)
 
